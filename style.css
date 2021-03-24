@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  color: White;
+  background-image: linear-gradient(-90deg , #0c0c0d, #1a1a1a);
+  font-family: 'Roboto';
+}
+input{
+text-align: Center;
+  color: Black;
+  font-family: 'Roboto';
+}
